@@ -28,7 +28,7 @@ This project is a standalone HTML landing page designed to convert visitors into
 ## Getting Started
 
 1. Clone the repository
-2. Open `freetest.html` in any modern web browser
+2. Open `index.html` in any modern web browser
 
 No build step or server required.
 
@@ -36,7 +36,7 @@ No build step or server required.
 
 ```
 freetest/
-├── freetest.html   # Complete single-page website
+├── index.html      # Complete single-page website
 ├── README.md       # This file
 └── .gitignore      # Git ignore rules
 ```
